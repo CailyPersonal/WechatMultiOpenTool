@@ -1,0 +1,4 @@
+﻿  NtSupport.cpp
+c:\users\caily\desktop\wechatmultiopentool\wechatjailbreak\ntsupport.cpp(131): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  WeChatJailbreak.vcxproj -> C:\Users\Caily\Desktop\WechatMultiOpenTool\Debug\WeChatJailbreak.dll
+  WeChatJailbreak.vcxproj -> C:\Users\Caily\Desktop\WechatMultiOpenTool\Debug\WeChatJailbreak.pdb (Full PDB)
